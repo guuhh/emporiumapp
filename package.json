@@ -1,0 +1,17 @@
+{
+    "name": "emporiumapp",
+    "version": "1.0.0",
+    "description": "emporium app",
+    "main": "server.js",
+    "keywords": [
+        "emporium",
+        "drinks"
+    ],
+    "author": "Gustavo Rodrigues",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "mongoose": "^5.8.10"
+    }
+}
